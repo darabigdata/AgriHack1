@@ -17,7 +17,6 @@ The DARA Big Data hackathon is designed to help you improve your data science sk
 
 The DARA Big Data hack challenges will be run in Python3 using the [IDIA Cloud](idia.ac.za/research-and-projects/african-research-cloud). Students should have a basic working knowledge of Python (including the scipy and numpy libraries) - but you do not have to be an expert to take part and enjoy yourself!
 
------
 
 
 -----
@@ -25,10 +24,10 @@ The DARA Big Data hack challenges will be run in Python3 using the [IDIA Cloud](
 ### Not at the hackathon, but want to test your code-building skills? Feel free!
 
 ```bash
-> git clone https://github.com/darabigdata/IDWBotswana.git
+> git clone https://github.com/darabigdata/AgriHack1.git
 ```
 
-Then make sure you have the right Python libraries for the tutorials. They can all be installed using pip and the [requirements.txt](https://github.com/darabigdata/IDWBotswana/blob/master/requirements.txt) file in the repo:
+Then make sure you have the right Python libraries for the tutorials. They can all be installed using pip and the [requirements.txt](https://github.com/darabigdata/AgriHack1/blob/master/requirements.txt) file in the repo:
 
 ```bash
 > pip install -r requirements.txt
