@@ -34,6 +34,28 @@ Then make sure you have the right Python libraries for the tutorials. They can a
 > pip install -r requirements.txt
 ```
 
+-----
+
+### New to Github?
+
+The easiest way to get all of the lecture and tutorial material is to clone this repository. To do this you need git installed on your laptop. If you're working on Linux you can install git using apt-get (you might need to use sudo):
+
+```
+apt install git
+```
+
+You can then clone the repository by typing:
+
+```
+git clone https://github.com/darabigdata/AgriHack1.git
+```
+
+To update your clone if changes are made, use:
+
+```
+cd AgriHack1/
+git pull
+```
 
 -----
 
